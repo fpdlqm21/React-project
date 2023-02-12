@@ -5,3 +5,9 @@ React를 활용하여 SPA를 만들며 학습한다.
 <h2>2. 사용한 툴</h2>
 React, Redux, Axios, Storybook, withStyles, redux-thunk 등을 이용하였다.
 <h2>3. 실행결과</h2>
+1. 메인화면
+<img src=https://user-images.githubusercontent.com/77057563/218315291-0ca4842e-89ad-49f9-bb62-52ee33543afb.jpg width="500" height="500"/>
+2. 회원가입화면
+<img src=https://user-images.githubusercontent.com/77057563/218315314-fd9a26cb-18b2-4200-aef8-425354ebb5d9.jpg width="500" height="500"/>
+3. 물건 검색, 구매, 판매
+<img src=/>
