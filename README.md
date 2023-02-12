@@ -10,4 +10,4 @@ React, Redux, Axios, Storybook, withStyles, redux-thunk 등을 이용하였다.
 2. 회원가입화면
 <img src=https://user-images.githubusercontent.com/77057563/218315314-fd9a26cb-18b2-4200-aef8-425354ebb5d9.jpg width="500" height="500"/>
 3. 물건 검색, 구매, 판매
-<img src=/>
+<img src=https://user-images.githubusercontent.com/77057563/218315909-9e3d6237-50b6-428f-9350-87f229cf0f82.gif width="700" height="800"/>
